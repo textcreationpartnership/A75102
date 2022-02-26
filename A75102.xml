@@ -1,0 +1,239 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Merlinus Anglicus, or, Englands Merlin: prophetically foretelling, severall remarkable occurrences that shall happen in England, Scotland, France, Denmark, Sweden, Germany, and severall other parts of Europe; this present year 1650. More particularly, concerning the Scots preparation, to advance against England, and the event and success thereof. The proceedings of the English Presbyterians, and the great blessings that will ensue, for the crowning of their endeavours. The conjunction and proceedings of the Danes, and Swedes, in relation to the affairs in England, ... A great blow in Ireland; ... The proceedings of the English commonalty, against divers lately in authority, ... Great fights at sea, between the English and the French, ... The proceedings of the yeomandray; and the taking off all heavy assesments, that doth retard, or hinder, the peoples liberty. With divers other remarkable observations, worthy the readers view and perusall concerning the English nobility, and gentry.</title>
+            <author>A. M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75102</idno>
+            <idno type="STC">Wing A17B</idno>
+            <idno type="STC">Thomason E600_13</idno>
+            <idno type="STC">ESTC R206395</idno>
+            <idno type="EEBO-CITATION">99865555</idno>
+            <idno type="PROQUEST">99865555</idno>
+            <idno type="VID">117800</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75102)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117800)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 92:E600[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Merlinus Anglicus, or, Englands Merlin: prophetically foretelling, severall remarkable occurrences that shall happen in England, Scotland, France, Denmark, Sweden, Germany, and severall other parts of Europe; this present year 1650. More particularly, concerning the Scots preparation, to advance against England, and the event and success thereof. The proceedings of the English Presbyterians, and the great blessings that will ensue, for the crowning of their endeavours. The conjunction and proceedings of the Danes, and Swedes, in relation to the affairs in England, ... A great blow in Ireland; ... The proceedings of the English commonalty, against divers lately in authority, ... Great fights at sea, between the English and the French, ... The proceedings of the yeomandray; and the taking off all heavy assesments, that doth retard, or hinder, the peoples liberty. With divers other remarkable observations, worthy the readers view and perusall concerning the English nobility, and gentry.</title>
+                  <author>A. M.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Wood,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the favourable reader" signed: M.A.</note>
+                  <note>The words "The Scots .. peoples liberty" are bracketed together and the words "worthy .. perusall" are enclosed in square brackets on title page.</note>
+                  <note>Annotation on Thomason copy: "May. 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almanacs --  Early works to 1800.</term>
+               <term>Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117800:1" rendition="simple:additions"/>
+            <p>
+               <hi>MERLIN<g ref="char:V">Ʋ</g>S ANGLIC<g ref="char:V">Ʋ</g>S,</hi> OR, Englands Merlin: Prophetically foretelling, Severall remarkable Occurrences that ſhall happen in <hi>England, Scotland, France, Denmark, Sweden, Germany,</hi> and ſeverall other parts of <hi>Europe;</hi> this preſent Year 1650.</p>
+            <p>More particularly, Concerning
+<list>
+                  <item>
+                     <hi>The</hi> Scots <hi>preparation, to advance againſt</hi> England, <hi>and the event and ſucceſs thereof.</hi>
+                  </item>
+                  <item>
+                     <hi>The proceedings of the</hi> Engliſh Presbyterians, <hi>and the great bleſ<g ref="char:EOLhyphen"/>ſings that will enſue, for the crowning of their endeavours.</hi>
+                  </item>
+                  <item>
+                     <hi>The conjunction and proceedings of the</hi> Danes, <hi>and</hi> Swedes, <hi>in re<g ref="char:EOLhyphen"/>lation to the affairs in</hi> England, <hi>and what ſhall befall them in all their enterpriſes and attempts.</hi>
+                  </item>
+                  <item>
+                     <hi>A great blow in</hi> Ireland; <hi>and an</hi> Aſtrological Prediction, <hi>con<g ref="char:EOLhyphen"/>cerning the</hi> New Government <hi>in</hi> England.</item>
+                  <item>
+                     <hi>The proceedings of the</hi> Engliſh Commonalty, <hi>againſt divers late<g ref="char:EOLhyphen"/>ly in Authority, who have enriched themſelves with the Pub<g ref="char:EOLhyphen"/>lique Treaſury; and the great danger that is like to enſue.</hi>
+                  </item>
+                  <item>
+                     <hi>Great Fights at Sea, between the</hi> Engliſh <hi>and the</hi> French, <hi>and what ſhall happen in the ſaid Engagements.</hi>
+                  </item>
+                  <item>
+                     <hi>The proceedings of the</hi> Yeomandry; <hi>and the taking off all heavy Aſſeſments, that doth retard, or hinder, the Peoples Liberty.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>WITH Divers other Remarkable Obſervations, [worthy the Readers view and peruſall] concerning the Engliſh Nobility, and Gentry.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Robert Wood.</hi> 1650.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:117800:2"/>
+            <pb facs="tcp:117800:2"/>
+            <head>To the FAVOURABLE READER.</head>
+            <p>TO write of modern men, is a troubleſome buſineſſe; all men commit errours, few having committed them, will hear thereof; one must or flatter them, or ſay nothing; to Com<g ref="char:EOLhyphen"/>ment upon their actions, is to endeavour to teach more by a mans own example, than by that of others; more to him that writes then to him that reades; more to be ſilent then to be active: Flatterers have yet moreover ſo exalted their good deeds, that the naked truth redounds to the blame of the Relator; for the truth of that which is heard, comes ſhort of that which is believed; and ſome there are who arrive at that height, as they leave no place for flattery, fancying themſelves grea<g ref="char:EOLhyphen"/>ter then flattery can make them. In the beginning of Government, every ſmall authority ſeems great; in the continuance thereof, however great it be, it ſeems little; whence it proceeds, that in time, that Ma<g ref="char:EOLhyphen"/>giſtrate is not endured, which was too greedily (at first) created, or deſired. Liberty and Principality are incompatible, they meet not to<g ref="char:EOLhyphen"/>gether, or if they do, they last not; every own ſeeks his own perfe<g ref="char:EOLhyphen"/>ction, which depending upon the deſtruction of another, they ſeek it there; to live quietly, it behoves either to be totally free, or totally tyed to ſervitude: To conquer Princes, and not know how to make the victory beneficiall; to win the people, and not know how to keep them in ſubjection; is a loſſe of men and time: Providence is neceſſary, and 'tis laborious. To captivate mens mindes with rewards is impoſſible; ſervitude cannot be rewarded with any other recompence, then being ſet at liberty: To tye them by an Oath is no way ſafe; they are not ſubjects, whoſe power is onely ſubject to will; Liberty is naturall, ſer<g ref="char:EOLhyphen"/>vitude violent; what is violent needs ſomewhat, which from without may withſtand it, if its beginning be not occaſioned from ſome internall
+<pb facs="tcp:117800:3"/>cauſe. This alteration of Government is performed with very great la<g ref="char:EOLhyphen"/>bour and difficulty to the undertakers thereof, and with, the either great patience, or murmurings of the people, who are paſſive therein. But I dare divine, and can aſſure poor <hi>England,</hi> that the glorious omnipotency of Heaven ſeems very favourable unto her, and gives great hopes (after ſome few diſtractions abroad compoſed) that all her tax<g ref="char:EOLhyphen"/>es ſhall be withdrawn, and (for the future) be no further burthened with oppreſſions, or payments; during which continuation, we are not maſters of our own fortunes, and ſo live not at home: And therefore ſeeing that the purchaſers of our Liberty, have many difficulties to at<g ref="char:EOLhyphen"/>tend their motion, I heartily implore all true Engliſhment, as one man, to unite their hearts, their prayers, their forces, and purſes, unanimouſly for defence of this Commonwealth and Authority now eſta<g ref="char:EOLhyphen"/>bliſhed; and by conforming thereunto, we ſhall quell hoth the inſult<g ref="char:EOLhyphen"/>ing <hi>French,</hi> the proud <hi>Spaniard,</hi> and all other Enemies to <hi>Eng<g ref="char:EOLhyphen"/>lands</hi> peace and tranquility, throughout the world; and by degrees, we ſhall attain to a most excellent and accompliſhed Government. But before we ſhall abſolutely enjoy this happineſſe, we must undergo ſome troubles, meet with many ſtumbling-blocks, and endure many a cruell ſtorm, yet let this be our comfort, <hi>God will deliver his people out of the hands of their enemies, and ſettle peace in the habitati<g ref="char:EOLhyphen"/>ons of thoſe that put their truſt in him.</hi> Reader, I am doubtfull I have detain'd thee too long (in Epiſtolizing) from what I promiſed thee in my Title page; for which I deſire thy pardon, intreating thee to accept of the weak and imperfect labours of</p>
+            <closer>
+               <signed>Thy friend, <hi>M. A.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:117800:3"/>
+            <head>
+               <hi>MERLIN<g ref="char:V">Ʋ</g>S ANGLIC<g ref="char:V">Ʋ</g>S,</hi> OR, AN ENGLISH MERLIN: Prophetically fore-telling, The moſt eminent things that ſhall happen, in <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> this preſent Year, 1650.</head>
+            <div n="may" type="month">
+               <head>May's <hi>Aſtrologicall Predictions.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>His Moneth produces matters of great concernment; the actions will be emi<g ref="char:EOLhyphen"/>nent in the Kingdom of <hi>Ireland,</hi> and un<g ref="char:EOLhyphen"/>to the perpetuall honour of the <hi>Engliſh</hi> Nation: Great fortune at tends the <hi>Engliſh</hi> Heroes (notwithſtanding the treacherous deſignes of their Enemies, and others) and ſome deſperate aſ<g ref="char:EOLhyphen"/>ſaults are attempted, wherein God makes it appear by ſome ſequell victory or action, that he loves the faithfull Patriots of <hi>England,</hi> by giving conqueſt and triumph to their Armies in <hi>Ireland:</hi> A totall ſubdu<g ref="char:EOLhyphen"/>ing of the barbarous <hi>Iriſh</hi> appears viſible towards the cloſe of this Moneth; but great ſickneſſe and unna<g ref="char:EOLhyphen"/>turall
+<pb n="2" facs="tcp:117800:4"/>diſeaſes ſeems too brief within our Camp, oc<g ref="char:EOLhyphen"/>caſioned by ſome treacherous neglect from <hi>England.</hi> Self ends appear viſible within our Engliſh territo<g ref="char:EOLhyphen"/>ries, intemperate diſputes, and civill broyls are much feared, and the ſpirits of divers Monarchicall creatures, are exceedingly enraged and enflamed, throughout the Weſt and Northern Counties; but a Southern cordiall will ſpeedily be adminiſtred, to a<g ref="char:EOLhyphen"/>bate the heat and fury thereof: Great rumours this Moneth of a Forraign invaſion, but providence, and vigilancy, retards the landing of the States enemy. Here arrives news, as if the wavering <hi>Scot</hi> were en<g ref="char:EOLhyphen"/>tering league or friendſhip, but whether with us to deceive us, or with our enemies to annoy us, time will manifeſt; it's believed to the contrary: For if an agreement be not concluded, between their King and the Grandees; (with good proviſion and ſecurity for the Commonalty) the whole land is divided, and their diſtractions will exceedingly encreaſe; a Thiſtle be<g ref="char:EOLhyphen"/>longing to the Royall branch (as they ſay) aſpires high in the North of that Kingdom, but the Engliſh Roſe once appearing, ſtrikes a ſuddain blaſt to her piercing and prickling bloſſomes.</p>
+            </div>
+            <div n="june" type="month">
+               <head>Junes <hi>Aſtrologicall Predictions.</hi>
+               </head>
+               <p>GReat are the conſultations and diſputes of the Commonalty of <hi>England</hi> this Moneth, who fixing their eyes Northward, diſcern the <hi>Scot</hi> to be highly elevated, by reaſon of his great confidence, or uncer<g ref="char:EOLhyphen"/>tain aſſurance, of aid and aſſiſtance from <hi>Denmark,
+<pb n="3" facs="tcp:117800:4"/>France,</hi> and other places, to annoy us; yea, and the ſtate of all <hi>Europe</hi> is guided likewiſe with moſt ſtrange and improvident adviſers; and a ſullen murmuring people within our own Territories, ſeems to ſwell with inveterate conceptions, acting and contriving deſolation and ruine to the ſupream Authority of the Nation; and many poyſoned darts will alſo flye from the quiver of invective ſpirits, wounding and pier<g ref="char:EOLhyphen"/>cing the honour of ſome worthy Patriots, who for<g ref="char:EOLhyphen"/>merly ſeemed as Oracles to the people, free from cor<g ref="char:EOLhyphen"/>ruption either in Office or bribery: <hi>[Oh a luſty purge for theſe diabolicall creatures, who under the ſpetious pre<g ref="char:EOLhyphen"/>tences of reſtauration of liberty, do endeavour the involving of us into endleſſe miſery.]</hi> But if the Commonalty be<g ref="char:EOLhyphen"/>gin now to be angry, their blowes will fall exceeding heavie, and wo be unto thoſe who ſhall move them to wrath, by diſ-franchiſing them of their late pur<g ref="char:EOLhyphen"/>chaſed liberty, and endeavour their involving once again in new commotions and troubles; great ruine attends the <hi>Dane,</hi> and all other who are intereſſed in his deſigne, againſt the Inhabitants of this Common<g ref="char:EOLhyphen"/>wealth: Diſtractions grow great in ſeverall parts of the Nation, through want of the Engine and ſmew of Warre, but by the great vigilancy of our prudent Rulers, their wants are ſupplied, and their diſcon<g ref="char:EOLhyphen"/>tents moſt happily allayed and pacified. Rich men look to your purſes, a purge is now preparing, but [indeed] it will be a very favourable and pleaſant one. The cloſe of this Moneth produceth great hap<g ref="char:EOLhyphen"/>pineſſe to the laborious huſbandman, his heavy taxes being much abated, and their weighty burthens in a great meaſure removed. <hi>Ireland</hi> cries out this Moneth for moneys and proviſion, and many there are who
+<pb n="4" facs="tcp:117800:5"/>endeavour the retarding thereof, and withdraw their helping hand from the propagating of ſo great a work; but let them all be anathematized (who ſhall appear inſtrumentall therein) to future generations and poſterities: Great commotions and diſtractions (throughout all parts of the world) attends the cloſe of this Moneth; But a wofull riſing ſeems to threaten the <hi>Turk,</hi> even from <hi>Conſtantinople</hi> the allarm ſhall be given, which will eccho through moſt of his confines and territories, inſomuch, that the induſtrious <hi>Ve<g ref="char:EOLhyphen"/>netian,</hi> appears full of action, and will free themſelves from ſlavery in the Iſland of <hi>Candy,</hi> firing and taking moſt of the Turkiſh Gallies, which lye as Pirates and Robbers, to maſſacre and enſlave the Chriſtians.</p>
+            </div>
+            <div n="july" type="month">
+               <head>July's <hi>Aſtrologicall Predictions.</hi>
+               </head>
+               <p>THis Moneth produceth great action, both by Sea and Land; eſpecially upon the Coaſt of <hi>Britain, Scotland, Sweden,</hi> and <hi>Holland;</hi> the Engliſh Mariners ſeems both ſtout and reſolute, triumphantly ſailing with their ſlags of defiance, and ſcorning to ſtrike ſail to the proudeſt enemy that flotes upon the Ocean: Some deſperate engagements happen between them, and the <hi>French</hi> rovers, little quarter given, but revenge repaid, for their former abuſes to the poor Engliſh Merchants. Sir <hi>George Askue</hi> (the Summers darling) and the undanted Generals, <hi>Blake, Dean,</hi> and <hi>Popham,</hi> in few days will cleer the Engliſh Channell, and not ſo much as a <hi>French</hi> Rover, or <hi>Iriſh</hi> Pyrate, will dare appear on our Coaſt; ſo that free trade and commerce will not
+<pb n="5" facs="tcp:117800:5"/>in the leaſt be hindered or retarded; which makes the Merchant, and the reſt of the Manufacture-Adventu<g ref="char:EOLhyphen"/>rers to ſmile, returning thanks, and preſenting gratui<g ref="char:EOLhyphen"/>ties for this great priviledge. Some action in the Nor<g ref="char:EOLhyphen"/>thern Climate, both by Sea and Land; for aſſuredly the <hi>Scot</hi> hath a great deſire to be troubleſom, and once again to bee ſtript and whipt, and ſent to forraign plantations: The ſeaſonable temperature of the wea<g ref="char:EOLhyphen"/>ther this Moneth, invites the Engliſh Army in <hi>Ireland</hi> to great action, a great blow threatens their enemy, but not without ſome loſſe; for by reaſon of ſome perfideous ſpirits, he takes great advantage, and ſeems very reſolute and ſturdy; many conſpirators hold jugling conſultations, and greatly 'tis to be feared, there will be ſome conſpiracies in <hi>England;</hi> yea, among ſome, whom the people have entruſted, and prefer'd to great Office and dignity; but like faithfull Patriots, others of the <hi>Truſtees,</hi> and <hi>Keepers of our Liberties,</hi> carry on the work deſigned by the omnipotent <hi>Jehovah,</hi> for <hi>perpetuity, his glory,</hi> and our comforts.</p>
+            </div>
+            <div n="august" type="month">
+               <head>Auguſts <hi>Aſtrologicall Predictions.</hi>
+               </head>
+               <p>MAny various reports are eccho'd up and down, in ſeverall parts of our Nation [this Moneth] as if the entrance of an Army amongſt us were to be feared, and that an in-road will be made by <hi>Jockey,</hi> together with the <hi>Danes, French,</hi> and other forraign<g ref="char:EOLhyphen"/>ers: Do not attempt our harm, you of the <hi>Scottiſh Faith,</hi> for ſharp effects from the conjunction of <hi>Mars,</hi> doth preſage and threaten a diſmall wo, not only
+<pb n="6" facs="tcp:117800:6"/>within the Engliſh territories, or your confines, but alſo all over <hi>Europe,</hi> [where ye ſhall reſide.] Some great ones amongſt us endeavour to foment new dif<g ref="char:EOLhyphen"/>ferences, and to corrupt the ſouldiery, but notwith<g ref="char:EOLhyphen"/>ſtanding their ſeverall temptations, little will be ef<g ref="char:EOLhyphen"/>fected; and as to the government of the Engliſh af<g ref="char:EOLhyphen"/>fairs now on foot, it ſeems not at a loſſe, but in a good poſture or condition, though infinite and mani<g ref="char:EOLhyphen"/>fold treacherous plots are conſulted of, to deſtroy the frame of Government now extant, its authority and Majeſty, and the Rulers of us thereby; yea, the whole Nation it ſelf (if poſſible;) the influence whereof, produceth ſad effects to the conſpirators; and if mercy be not ſhewed in the midſt of Juſtice, its feared the bright Axe will be died of a ſkarlet hue: The Preſbyterian ſeems angry, and much diſpleaſed with the preſent authority, and many invective ſpee<g ref="char:EOLhyphen"/>ches will proceed from thoſe, who formerly ſhined like glorious Lights amongſt us, having performed wonderfull actions for the ſervice of this Common<g ref="char:EOLhyphen"/>wealth; but notwithſtanding this their change, and perverting of their purer judgements, I heartily wiſh, that the State of <hi>England,</hi> may look upon their for<g ref="char:EOLhyphen"/>mer merits, and ſay, as <hi>Solomon,</hi> upon the failings of <hi>Abiathar;</hi> Becauſe you, from the very beginnings of our troubles, have ſuffered with us, fought for us, and now onely unfortunately have erred, and receded from your former obedience, be you forgi<g ref="char:EOLhyphen"/>ven of God, we remit this your caſuall treſpaſſe.</p>
+            </div>
+            <div n="september" type="month">
+               <pb n="7" facs="tcp:117800:6"/>
+               <head>Septembers <hi>Aſtrologicall Predictions.</hi>
+               </head>
+               <p>SOme peſtilent broyls, or unparalell'd reſults, give cauſe of fear to our Governours, but a few dayes patience promiſes a comfortable compoſure: Lift up your heads, you <hi>Engliſh Cedars,</hi> and faithfull Commoners be not ſad; the unchangeable decrees of Eternall providence, have well provided for your eaſe; although ſome diſcord and contention, may for a time ſeem to diſcontent us, by reaſon of ſome aſto<g ref="char:EOLhyphen"/>niſhment ariſing from the Citizens of <hi>London,</hi> and great diſputes happening between party and party; but the ſufferings of this Nation are almoſt quite o<g ref="char:EOLhyphen"/>ver, and I could wiſh the like in <hi>Ireland;</hi> but it ſeems there is much to be done, ſome money and mens lives to be ſpent; but I hope all thoſe who are lovers of Religion, liberty and freedome, will moſt willingly lend their helping hand, for their relief and aſſiſtance. Alas! poor <hi>England</hi> cannot expect ſafety without a full conqueſt of <hi>Ireland,</hi> which I poſitively affirm, we ſhall ſubdue this year, the ſeverall poſitions of hea<g ref="char:EOLhyphen"/>ven promiſing us no leſſe then victory, and the Iriſh downfall: But the ſooner wee ſend men, monies, clothes, and neceſſaries, the more will be our glo<g ref="char:EOLhyphen"/>ry, and our brethrens comfort: I wiſh a generation of our own at home, fail not herein.</p>
+            </div>
+            <div n="october" type="month">
+               <pb n="8" facs="tcp:117800:7"/>
+               <head>Octobers <hi>Aſtrologicall Predictions.</hi>
+               </head>
+               <p>I <hi>Reland</hi> is ſenſible of the actions of this Moneth, in one kinde or other, but probably in the worſer ſenſe; the ſouldiery ſeems very weary, by reaſon of ſome unſeaſonable weather, and the ſearcity of bread and proviſions; but its in vain [O <hi>Ireland</hi>] to reſiſt that over-ruling providence, which by the mercy of God attends the Engliſh conſultations: Divers of the <hi>Iriſh</hi> Nobility, begin to deſert any further engage<g ref="char:EOLhyphen"/>ment with <hi>England,</hi> and many of them flye into other Countries for relief and ſuccour: The ſick <hi>Scot</hi> is ſtill lurking to take advantage; but him we need not fear, though aſſiſted with the <hi>Dane,</hi> who is preparing for our annnoyance this Summer: The <hi>Swede</hi> we ſhall not finde our friend, nor doth the <hi>German</hi> Emperour and the Princes of <hi>Germany,</hi> favour this Government: The <hi>French</hi> have already, do ſtill, and will hereafter abuſe us for a while; but the edge of their fury will within few Moneths bee taken off, and great will bee their commotions, the commonalty endeavouring to caſt off Monarchy; and an invitation is upon a near arri<g ref="char:EOLhyphen"/>vall to <hi>England,</hi> for the purchaſing of liberty. The cloſe of this Moneth produceth good effects from the Clergy, and thoſe Divines who for many precedent Moneths walked very averſe in judgment, begin now to hold a mutuall correſpondency in Doctrine, and a good underſtanding and concurrence, is with great joy, alacrity, and amity, aſſented to.</p>
+            </div>
+            <div n="november" type="month">
+               <pb n="9" facs="tcp:117800:7"/>
+               <head>November's <hi>Aſtrologicall Predictions.</hi>
+               </head>
+               <p>SOme of our Engliſh Truſtees begin now to ſoar high, having by their great Offices enriched their eſtates, and filled their purſes; which cauſeth the Com<g ref="char:EOLhyphen"/>munalty to ſwell with anger, and their ſpirits to boil with indignation, and ſeriouſly to commune one with another, and queſtioning each others judgments, why they made no better a choiſe; but they are pacified for a while, having fair hopes of bettering their con<g ref="char:EOLhyphen"/>dition in the future. Let us hope well after all our ſufferings, there is ſome probability either of curing, or lopping off ſuch diſeaſed branches of the Common<g ref="char:EOLhyphen"/>wealth, as have glutted themſelves with the peoples ruine and impoveriſhment. About this time there a<g ref="char:EOLhyphen"/>riſeth great changes in <hi>France,</hi> and without doubt ei<g ref="char:EOLhyphen"/>ther a new molding of men, or juſt examination of ſome Parliamentary matters. We ſhall have rumours of Wars, and hear of preparations of Armies in ſeve<g ref="char:EOLhyphen"/>rall parts of <hi>Europe;</hi> but the Engliſh Statiſts ſhall pre<g ref="char:EOLhyphen"/>pare the greateſt Fleet for Sea, and the beſt Army for Land, that ever was ſeen in theſe parts; for the Eng<g ref="char:EOLhyphen"/>liſh will bee reputed ſo deſpicable a people, in moſt parts of <hi>Europe,</hi> that the State will be forced to ſtand upon their guard, both by Sea and land, and they will ſo diſcreetly manage their affairs, that the greateſt and wiſeſt Polititians, with all their might and power, ſhall not be able to annoy us, or ſet footing within our Territories.</p>
+            </div>
+            <div n="december" type="month">
+               <pb n="10" facs="tcp:117800:8"/>
+               <head>December's <hi>Aſtrologicall Predictions.</hi>
+               </head>
+               <p>THe year is now ending, but the great murmurings of the people not yet brought to a period, but time by degrees may better inform their judgements: A ſad government which people neither fear nor ap<g ref="char:EOLhyphen"/>prove of, but as neceſſitated: Great are the complaints of the people to the Parliament, againſt publike Of<g ref="char:EOLhyphen"/>ficers, who have ſought their own intereſts, and ſer<g ref="char:EOLhyphen"/>ved their own turns with the publike treaſure. Were a full liberty granted, which [perhaps] may be, the Commonwealth knows who to queſtion, and where to finde monies. Something near or about this time, a capitall puniſhment is threatned: No admonition or judgment will ſerve ſome of thoſe who have quick<g ref="char:EOLhyphen"/>ned and excited our differences; it's poſſible the juſt hand of God may finde out ſome of them miraculouſ<g ref="char:EOLhyphen"/>ly, and ſuffer the execution of juſtice to be inflicted on them; at which time, the Communalty will ſmile, and not ceaſe from petitioning that juſtice may flow in its proper current, and not be perverted either with bribery or partiality.</p>
+            </div>
+            <div n="january" type="month">
+               <head>January's <hi>Aſtrologicall Predictions.</hi> 1651.</head>
+               <p>GAllant things are in agitation this Moneth, the beginning of which produceth large diſputes: Our Repreſentatives proceed with great alacrity for the eaſing of the Communalty of their Aſſeſſements, and heavie burthens, and tenderly now conſider, how they may be taken off, and much leſſened or abated: Little action this Moneth, words being more predo<g ref="char:EOLhyphen"/>minant then blowes; yet a few diſcontented ſpirits,
+<pb n="11" facs="tcp:117800:8"/>ſeem to begin the year with mutinous paradoxes, and would attempt againſt our State and Government, which will continue, if they derogate not from their true and lawfull principles.</p>
+            </div>
+            <div n="february" type="month">
+               <head>February's <hi>Aſtrologicall Predictions.</hi>
+               </head>
+               <p>A Melodious harmony ſounds pleaſantly in the ears of <hi>Englands</hi> Libertines this Moneth; whoſe painfull endeavours are now ſtudious, how to pre<g ref="char:EOLhyphen"/>ſent their gratifications of love, unto ſuch as have ſupported them and the Kingdomes cauſe, with ha<g ref="char:EOLhyphen"/>zarding their lives, fortunes, and eſtates: The <hi>Lon<g ref="char:EOLhyphen"/>doners</hi> and divers others, do now unfeignedly make a recantation of their former diſobedience; who having taſted of the ſweet fruits, which our Repreſentatives have with ſo great hazard and pains reaped, begin now to relliſh the vertue of their proceedings, and and reſolve to walk obediently in all juſt and lawfull ways, which they are required or commanded to; And although there is a portent of diviſion amongſt ſome few great ones, yet the God of peace can convert ſome abſurd miſtakes into a better temper then open hoſtility or publike defiance.</p>
+            </div>
+            <div n="march" type="month">
+               <head>March's <hi>Aſtrologicall Predictions.</hi>
+               </head>
+               <p>BY the Conjunction of ſeverall Planets, this Mo<g ref="char:EOLhyphen"/>neth produceth good effects, and our long deſi<g ref="char:EOLhyphen"/>red Peace, ſeems now firmly eſtabliſhed: Severall
+<pb n="12" facs="tcp:117800:9"/>Agents and Embaſſadours from forraign Potentates arrive here near theſe times, deſiring unity between their Maſters and our Repreſentatives; The Gover<g ref="char:EOLhyphen"/>nours of forraign Plantations, deſire to live under the protection of our Engliſh State: The French ſeems a little troubleſom, notwithſtanding his ill ſucceſſe the laſt year, and the <hi>Danes</hi> would be with us, but dare not. Some new commotions in <hi>Scotland,</hi> by diſcon<g ref="char:EOLhyphen"/>tented ſpirits, for advance of Monarchy, but all in vain. The Preſbyters in <hi>England,</hi> receive a generall change, and endeavour nothing more, then the preſer<g ref="char:EOLhyphen"/>vation of their peace and liberty, and fruſtrating the malign deſignes of the adverſe party.</p>
+            </div>
+            <div n="pril" type="month">
+               <head>April's <hi>Aſtrologicall Predictions.</hi>
+               </head>
+               <p>OUr Engliſh ſpirits ſoar high; the ſouldiery are reſolute and undanted, and in ſo good a poſture, that no enemy can annoy us: The <hi>Hollander</hi> is very active, making great preparations for Sea; what their deſigne is, time will ſuddainly diſcover; they are a ſubtle ſelf-ended people, and it behoves <hi>England</hi> be<g ref="char:EOLhyphen"/>ing ſo near a neighbour diligently to attend their mo<g ref="char:EOLhyphen"/>tion: The <hi>Scots</hi> begin to deſiſt from playing faſt and looſe any longer, and (in ſome meaſure) to con<g ref="char:EOLhyphen"/>ceive aright of our preſent Government and Authori<g ref="char:EOLhyphen"/>ty, who in its purity, is like to continue many Gene<g ref="char:EOLhyphen"/>rations: And I am confident, all true Engliſhmen, and lovers of their Countries freedom, will generally unite, and endeavour (for the future) the preſer<g ref="char:EOLhyphen"/>vation and ſafety of this Commonwealth wherein they live.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
